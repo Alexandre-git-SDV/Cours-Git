@@ -8,5 +8,3 @@ Branche de versionning différente version ou statut d'un projet
 
 Modification 12:26
 
-GitLab << Github
-

@@ -1,1 +1,16 @@
-tropsecretpourvouslesgens.txt
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Misc
+.DS_Store

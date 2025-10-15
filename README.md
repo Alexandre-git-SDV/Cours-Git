@@ -6,6 +6,4 @@ Commit : Snapshot d'un projet / un code / fichier
 
 Branche de versionning différente version ou statut d'un projet
 
-Modification 12:17
-
-Alexandre le baka
+Modification 12:26

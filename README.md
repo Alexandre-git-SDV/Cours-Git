@@ -8,4 +8,4 @@ Branche de versionning différente version ou statut d'un projet
 
 Modification 11:25
 
-Alexandre le quoicou baka
+Alexandre le baka
